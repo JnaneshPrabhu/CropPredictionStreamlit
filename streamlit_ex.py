@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd 
 import numpy as np
-import matplotlib.pyplot as plt
 import pickle
 
 model_filename = 'crop_prediction_model.sav'
